@@ -1,3 +1,23 @@
 http://localhost:3000/Team
 
 ###
+
+
+GET http://localhost:3000/Login
+Content-Type: application/json
+
+{
+  "token": "dZTcXOVxk0hfafsdfassdfs"
+}
+
+
+###
+
+GET http://localhost:3000/Login
+Content-Type: application/json
+
+{
+  "token": "dZTcXOVk0h"
+}
+
+###
